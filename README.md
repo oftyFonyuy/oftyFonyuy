@@ -2,7 +2,7 @@
 - 👀 I’m interested in Systems REsearch
 - 🌱 I’m currently learning Xen and C programming
 - 💞️ I’m looking to collaborate on VMs
-- 📫 How to reach me fonyuy.caleb@OFTY.fr
+- 📫 How to reach me fonyuy.caleb@ofty.fr
 
 <!---
 oftyFonyuy/oftyFonyuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
